@@ -12,6 +12,9 @@ pandas = "*"
 numpy = "*"
 ipython = "*"
 jupyter = "*"
+scikit-learn = "*"
+quandl = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
